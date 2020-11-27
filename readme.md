@@ -1,0 +1,1 @@
+Pequeno sistema para mostrar um alerta visual dos atalhos digitados no teclado.
